@@ -1,9 +1,5 @@
 <h1 align="center">Hi😊, I'm Doi Amdissa</h1>
 <h3 align="center">A Competitive Programmer and a Software Engineer.</h3>
-
-<p align="center"> <img alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"> </p>
-
-
 <br/>
 
 - 🌱 I’m currently learning **Django**
